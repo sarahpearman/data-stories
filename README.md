@@ -15,6 +15,10 @@ I will almost certainly be a researcher of some kind after graduation, and I thi
 
 # Portfolio
 
-Someday, my portfolio of data visualizations will go here. For now, here's a picture of my dog.  
+[Assignment: OECD data visualization](/dataviz2.md)
+
+# Dog!
+
+This picture of my dog was here as a placeholder originally, but who's mad about an unsolicited dog photo?
 
 ![Photo of Elwood, a very beautiful and very spoiled greyhound wearing a striped shirt.](https://raw.githubusercontent.com/sarahpearman/data-stories/master/photos/elwood.png)
