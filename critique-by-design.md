@@ -1,4 +1,8 @@
-The chart I chose to critique comes from a [2012 Pew Report](https://www.pewinternet.org/wp-content/uploads/sites/9/media/Files/Reports/2012/PIP_Teens_Smartphones_and_Texting.pdf) on teenagers, smartphones, and texting.
+# The victim of this critique: A chart from a 2012 Pew report
+
+The chart I chose to critique comes from a [2012 Pew Report](https://www.pewinternet.org/wp-content/uploads/sites/9/media/Files/Reports/2012/PIP_Teens_Smartphones_and_Texting.pdf) on teenagers, smartphones, and texting. (The previous link goes to the full PDF report. The relevant page in the online summary can be found [here](https://www.pewresearch.org/internet/2012/03/19/what-teens-do-with-their-phones/).)
+
+![a bar graph showing how many texts teens send](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/media/8A567D97A4004E7383FBB1481A872677.jpg)
 
 # Runner-up candidates (just because I think they're interesting)
 
