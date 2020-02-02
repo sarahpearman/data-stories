@@ -16,6 +16,7 @@ I will almost certainly be a researcher of some kind after graduation, and I thi
 # Portfolio
 
 [Assignment: OECD data visualization](/dataviz2.md)
+
 [Assignment: Critique by Design](/critique-by-design.md)
 
 # Dog!
