@@ -4,7 +4,31 @@ The chart I chose to critique comes from a [2012 Pew Report](https://www.pewinte
 
 ![a bar graph showing how many texts teens send](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/media/8A567D97A4004E7383FBB1481A872677.jpg)
 
-My original Google Form responses to the Data Visualization Effectiveness Profile can be found [here](/googleForm.pdf), so I won't reiterate all of those points.
+My original Google Form responses to the Data Visualization Effectiveness Profile can be found [here](/assignment3-files/googleForm.pdf), so I won't reiterate all of those points.
+
+Some of my complaints included:
+
+* Given the title, my first impression was that the numbers at the tops of the bars were numbers of text messages, not the percentages that they actually are
+* For data showing change over time like this, I think the default assumption is that the x-axis will reflect time
+* I generally did not find that the pattern they were trying to emphasize (quite simply, that teens sent more texts in 2011 than in 2009) was obvious without looking at this graph for a long time, and the title doesn't make it any clearer (although the surrounding text in the report helps to contextualize the visual)
+
+# Sketches
+
+![](assignment3-files/wireframe1-1.png)
+
+![](assignment3-files/wireframe2.png)
+
+# Final
+
+![](assignment3-files/medianTexts.png)
+
+Although it addresses an aspect of the data that the original graph was never intended to address, I also drew the graph below, to offer an example of the type of extremely simple graph that I think would have contributed more to this report than the more complicated one that I was critiquing.
+
+The paragraph under the original graph read as follows: 
+
+![](assignment3-files/boysVsGirls.png)
+
+---
 
 # Runner-up candidates (just because I think they're interesting)
 
@@ -17,3 +41,6 @@ In the past five or so years, Pew has achieved a really consistent design langua
 
 ![graph of acceptability of data sharing practices, showing that younger and older adults have different opinions](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2019/11/PI_2019.11.14_privacy_3-04.png?resize=640,513)
 
+---
+
+[Back to Home](https://sarahpearman.github.io/data-stories/)
