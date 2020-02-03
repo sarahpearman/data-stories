@@ -6,6 +6,10 @@ https://sarahpearman.github.io/data-stories/critique-by-design.html
 
 The chart I chose to critique comes from a [2012 Pew Report](https://www.pewinternet.org/wp-content/uploads/sites/9/media/Files/Reports/2012/PIP_Teens_Smartphones_and_Texting.pdf) on teenagers, smartphones, and texting. (The previous link goes to the full PDF report. The relevant page in the online summary can be found [here](https://www.pewresearch.org/internet/2012/03/19/what-teens-do-with-their-phones/).)
 
+**In context of the report, this graph is just intended to show that teens in 2011 said they sent more text messages per day than teens in 2009, but I didn't find this to be immediately clear, especially without the context of the surrounding text.**
+
+I almost scrolled past this one, because it's fairly inoffensive from a design perspective, but once I looked closer I realized it had taken a really simple point and made it inexplicably confusing, especially for a public audience, so I decided it would be an interesting example.
+
 ![a bar graph showing how many texts teens send](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/media/8A567D97A4004E7383FBB1481A872677.jpg)
 
 My original Google Form responses to the Data Visualization Effectiveness Profile can be found [here](/assignment3-files/googleForm.pdf), so I won't reiterate all of those points.
@@ -20,7 +24,11 @@ Some of my complaints included:
 
 I first tried to redraw something very similar while maintaining the same general format as the original graph. I originally intended not to truncate the x-axis and allow it to go all the way to 100%, but I didn't like the amount of whitespace that created, since the differences between bars are already small and are even harder to see if the bars are shrunk to avoid truncating the axis.
 
-The blue and gray graph on top of the image below is the one I discussed first with the people I interviewed (my partner Noah and my brother Will). (We mostly ignored the yellow/red/orange graph, because after drawing it I decided that it didn't make sense even to me.)
+I experimented with including the percentages on the ends of the bars (but with a % symbol, unlike the original), but it just made it look busier without really contributing anything. Here, I don't think the exact percentages are the important thing, as long as you can see that one bar is bigger than the one next to it.
+
+### Minor redesign
+
+The **top blue and gray graph** in the image below is the one I discussed first with the people I interviewed (my partner Noah and my brother Will). (We mostly ignored the yellow/red/orange graph, because after drawing it I decided that it didn't make sense even to me.)
 
 Noah first pointed out that the graph didn't have enough labels for it to make any sense at all, and I resolved that (corrected version shown below). After fixing that, I asked both of them to give their impressions of it with the main title covered (so that they didn't have text indicating that the main point was that more texts were sent in 2011), and both of them stared at it for a long time before saying anything at all. Noah never did decide what it meant, and Will finally did find the primary pattern and pointed out the bottom bar in particular, the >200 group.
 
@@ -28,11 +36,13 @@ Both said that this graph was overly complicated to make the broader point, espe
 
 Will also said that he'd rather see this graph rotated 90° (i.e., the same as the original had been), but then when I showed him the original, he said that he didn't like it either: he said he really meant that it felt like the x-axis should show change over time.
 
-Noah, a man with particular design sensibilities, finally remarked: "A graph should be two shapes. One should be bigger than the other. The end."
+Noah, a man with particular design sensibilities, finally remarked: "A graph should be two shapes. One should be bigger than the other. The end." I'm not sure I ascribe to that philosophy in general, but here, it's oddly apt.
 
 ![](assignment3-files/wireframe1-1.png)
 
-The top left graph below shows a much simpler representation of the overall point: one bar with the 2009 median, and one with the 2011 median.
+### Major redesign: Ultra-simple bar graph
+
+The **top left** graph below shows a much simpler representation of the overall point: one bar with the 2009 median, and one with the 2011 median.
 
 Noah liked the version below much better and would have preferred to see it without the previous graph included at all. Will would have liked to see this simpler graph first but to have the previous graph included as context.
 
@@ -40,17 +50,23 @@ Will said the audience for this graph was "everyone." I think this is appropriat
 
 ![](assignment3-files/wireframe2.png)
 
-The other two graphs in the image above were extra prototypes that I created to visualize other points that were described in the text of the report but not visualized. The bottom left one attempted to show that older teenagers are responsible for a large portion of the increase in the median number of texts from 2009 to 2011, since their median texts per day went from 60 to 100, but Noah said, "I don't understand how that graph relates to older teenagers vs. younger teenagers." I think it would require a more complex type of visualization to show that relationship. Since this relationship was tangential to the original graph anyway, I set this one aside.
+### Some other examples with related data
 
-The graph on the right is meant to visualize a sentence from the text that said that "older girls remain the most enthusiastic texters." Both interviewees said this graph was extremely easy to understand, so I drew it along with the final example. If I were rewriting this report for a public audience, I would probably include a few simple bar graphs like this rather than the more complex original graph.
+The other two graphs in the image above were extra prototypes that I created to visualize other points that were described in the text of the report but not visualized. The **bottom left** one attempted to show that older teenagers are responsible for a large portion of the increase in the median number of texts from 2009 to 2011, since their median texts per day went from 60 to 100, but Noah said, "I don't understand how that graph relates to older teenagers vs. younger teenagers." I think it would require a more complex type of visualization to show that relationship. Since this relationship was tangential to the original graph anyway, I set this one aside.
+
+The **graph on the right** is meant to visualize a sentence from the text that said that "older girls remain the most enthusiastic texters." Both interviewees said this graph was extremely easy to understand, so I drew it along with the final example. If I were rewriting this report for a public audience, I would probably include a few simple bar graphs like this rather than the more complex original graph.
 
 ## Final
+
+### Main redesign
 
 I constructed this final version of the much-simpler bar plot of 2009 and 2011 medians based on the feedback I received on the sketches. Using gray for 2009 and blue for 2011 was intended to emphasize the current / larger 2011 data point. The title was intended to make the main point extremely clear for a public audience who could not be assumed to have any data science background. The design was otherwise minimal.
 
 I tried to build this in Tableau, but it was having bizarre number formatting issues that I couldn't make sense of, so I built it in R/ggplot instead.
 
 ![](assignment3-files/medianTexts.png)
+
+### Extra example with related data
 
 As discussed in more detail above: although it addresses an aspect of the data that the original graph was never intended to address, I also drew the graph below, to offer an example of the type of extremely simple graph that I think would have contributed more to this report than the more complicated one that I was critiquing.
 
