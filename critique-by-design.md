@@ -4,6 +4,8 @@ The chart I chose to critique comes from a [2012 Pew Report](https://www.pewinte
 
 ![a bar graph showing how many texts teens send](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/media/8A567D97A4004E7383FBB1481A872677.jpg)
 
+My original Google Form responses to the Data Visualization Effectiveness Profile can be found [here](/googleForm.pdf), so I won't reiterate all of those points.
+
 # Runner-up candidates (just because I think they're interesting)
 
 I found some interesting examples in Pew reports that were even older than the one I selected, like the examples below from a 2005 report about teenagers and technology. Probably due to software limitations at the time, they often just included tables for more complicated data, and they only included graphs if they were quite simple, like these. What I find notable about these is that while they do not follow best practices for visual design (rainbowy, unnecessary uses of ink like colored backgrounds and superfluous borders and redundant legends, etc.), it's still not difficult to figure out what they mean. I almost selected the second one for this assignment, but I started filling out the Google form and realized I didn't have many complaints about its accuracy or perceptibility, so I went digging again for something that actually caused confusion about the data.
