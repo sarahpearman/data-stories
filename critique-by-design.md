@@ -42,9 +42,13 @@ The graph on the right is meant to visualize a sentence from the text that said 
 
 # Final
 
+I constructed this final version of the much-simpler bar plot of 2009 and 2011 medians based on the feedback I received on the sketches. Using gray for 2009 and blue for 2011 was intended to emphasize the current / larger 2011 data point. The title was intended to make the main point extremely clear for a public audience who could not be assumed to have any data science background. The design was otherwise minimal.
+
+I tried to build this in Tableau, but it was having bizarre number formatting issues that I couldn't make sense of, so I built it in R/ggplot instead.
+
 ![](assignment3-files/medianTexts.png)
 
-Although it addresses an aspect of the data that the original graph was never intended to address, I also drew the graph below, to offer an example of the type of extremely simple graph that I think would have contributed more to this report than the more complicated one that I was critiquing.
+As discussed in more detail above: although it addresses an aspect of the data that the original graph was never intended to address, I also drew the graph below, to offer an example of the type of extremely simple graph that I think would have contributed more to this report than the more complicated one that I was critiquing.
 
 ![](assignment3-files/boysVsGirls.png)
 
