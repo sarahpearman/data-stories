@@ -1,4 +1,8 @@
-# The victim of this critique: A chart from a 2012 Pew report
+# Assignments 3 & 4: Critique by Design
+
+https://sarahpearman.github.io/data-stories/critique-by-design.html
+
+## The victim of this critique: A chart from a 2012 Pew report
 
 The chart I chose to critique comes from a [2012 Pew Report](https://www.pewinternet.org/wp-content/uploads/sites/9/media/Files/Reports/2012/PIP_Teens_Smartphones_and_Texting.pdf) on teenagers, smartphones, and texting. (The previous link goes to the full PDF report. The relevant page in the online summary can be found [here](https://www.pewresearch.org/internet/2012/03/19/what-teens-do-with-their-phones/).)
 
@@ -12,7 +16,7 @@ Some of my complaints included:
 * For data showing change over time like this, I think the default assumption is that the x-axis will reflect time
 * I generally did not find that the pattern they were trying to emphasize (quite simply, that teens sent more texts in 2011 than in 2009) was obvious without looking at this graph for a long time, and the title doesn't make it any clearer (although the surrounding text in the report helps to contextualize the visual)
 
-# Sketches
+## Sketches
 
 I first tried to redraw something very similar while maintaining the same general format as the original graph. I originally intended not to truncate the x-axis and allow it to go all the way to 100%, but I didn't like the amount of whitespace that created, since the differences between bars are already small and are even harder to see if the bars are shrunk to avoid truncating the axis.
 
@@ -40,7 +44,7 @@ The other two graphs in the image above were extra prototypes that I created to 
 
 The graph on the right is meant to visualize a sentence from the text that said that "older girls remain the most enthusiastic texters." Both interviewees said this graph was extremely easy to understand, so I drew it along with the final example. If I were rewriting this report for a public audience, I would probably include a few simple bar graphs like this rather than the more complex original graph.
 
-# Final
+## Final
 
 I constructed this final version of the much-simpler bar plot of 2009 and 2011 medians based on the feedback I received on the sketches. Using gray for 2009 and blue for 2011 was intended to emphasize the current / larger 2011 data point. The title was intended to make the main point extremely clear for a public audience who could not be assumed to have any data science background. The design was otherwise minimal.
 
@@ -54,7 +58,7 @@ As discussed in more detail above: although it addresses an aspect of the data t
 
 ---
 
-# Runner-up candidates (just because I think they're interesting)
+## Runner-up candidates (just because I think they're interesting)
 
 I found some interesting examples in Pew reports that were even older than the one I selected, like the examples below from a 2005 report about teenagers and technology. Probably due to software limitations at the time, they often just included tables for more complicated data, and they only included graphs if they were quite simple, like these. What I find notable about these is that while they do not follow best practices for visual design (rainbowy, unnecessary uses of ink like colored backgrounds and superfluous borders and redundant legends, etc.), it's still not difficult to figure out what they mean. I almost selected the second one for this assignment, but I started filling out the Google form and realized I didn't have many complaints about its accuracy or perceptibility, so I went digging again for something that actually caused confusion about the data.
 
