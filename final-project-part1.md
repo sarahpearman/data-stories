@@ -22,7 +22,7 @@ The research and best practices on designing for usability and privacy in voice 
 
 In the meantime, regular users should take note of whether these devices are using their data in ways they are comfortable with. Users can consider this when deciding what they do and do not want to purchase, and they can also choose to change the privacy settings on their devices from the defaults if they want more control over how their data is used.
 
-**(Put Shorthand link here)**
+🔴(Put link to Shorthand outline here)🔴
 
 ## Initial sketches
 
