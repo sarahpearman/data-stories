@@ -6,7 +6,21 @@ I plan to tell a story about how adoption of smart speakers (e.g., Alexa devices
 
 This will be useful for me in the future: I'm interested in conducting further research on data use disclosures and consent interfaces in voice user interfaces such as smart speakers and phone voice assistants. I will need to be able to succinctly tell a story of why we might want to conduct that type of research.
 
-* *A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories.*
+*A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories.*
+
+### Setup
+
+Adoption of smart speakers and voice assistants is growing.
+
+### Conflict
+
+Many people don't trust these devices (including some who own them), and people who own them and do trust them sometimes have fundamental misunderstandings of what may be happening with their data.
+
+### Resolution
+
+The research and best practices on designing for usability and privacy in voice user interfaces needs to catch up to the surge of research on natural language processing and conversational agents. 
+
+In the meantime, regular users should take note of whether these devices are using their data in ways they are comfortable with. Users can consider this when deciding what they do and do not want to purchase, and they can also choose to change the privacy settings on their devices from the defaults if they want more control over how their data is used.
 
 **(Put Shorthand link here)**
 
