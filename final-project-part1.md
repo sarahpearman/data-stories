@@ -2,11 +2,9 @@
 
 ## Outline
 
-*The outline of your final project should serve as the building blocks for the rest of your presentation.  You've been introduced to Shorthand (Links to an external site.), one option you have at your disposal for creating your final project deliverable.  Shorthand also has a handy template you can reference for creating an outline of your project*
+I plan to tell a story about how adoption of smart speakers (e.g., Alexa devices) is increasing, while trust in their privacy practices does not seem to be increasing accordingly. I will use public Pew Research data from 2017 and 2019 that includes general adoption percentages for these devices as well as questions about people's usage of these devices and opinions about them. I may also use some other research data and news reports, depending on what I am able to scrape, but the Pew datasets will be my main source since they are public.
 
-*At a minimum, you should include the following:*
-
-* *A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.*
+This will be useful for me in the future: I'm interested in conducting further research on data use disclosures and consent interfaces in voice user interfaces such as smart speakers and phone voice assistants. I will need to be able to succinctly tell a story of why we might want to conduct that type of research.
 
 * *A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories.*
 
