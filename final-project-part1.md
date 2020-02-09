@@ -36,7 +36,7 @@ Both of these datasets consist of >4000 U.S. adults who are randomly selected fr
 
 ### Additional context
 
-I expect to use some data points from these two papers: 
+I expect to use some data points from the two papers below. The original datasets are not publicly available, but I would just need to cite simple percentages or counts that are available in the papers themselves (both of which are publicly available).
 
 Academic paper on privacy concerns surrounding smart speakers: https://www.key4biz.it/wp-content/uploads/2018/11/cscw102-lau-1.pdf
 
