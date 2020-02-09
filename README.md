@@ -19,6 +19,8 @@ I will almost certainly be a researcher of some kind after graduation, and I thi
 
 [Assignment: Critique by Design](/critique-by-design.md)
 
+[Final Project, Part 1](/final-project-part1.md)
+
 # Dog!
 
 This picture of my dog was here as a placeholder originally, but who's mad about an unsolicited dog photo?
