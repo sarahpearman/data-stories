@@ -4,7 +4,7 @@
 
 I plan to tell a story about how adoption of smart speakers (e.g., Alexa devices) is increasing, while trust in their privacy practices does not seem to be increasing accordingly. I will use public Pew Research data from 2017 and 2019 that includes general adoption percentages for these devices as well as questions about people's usage of these devices and opinions about them. I may also use some other research data and news reports, depending on what I am able to scrape, but the Pew datasets will be my main source since they are public.
 
-This will be useful for me in the future: I'm interested in conducting further research on data use disclosures and consent interfaces in voice user interfaces such as smart speakers and phone voice assistants. I will need to be able to succinctly tell a story of why we might want to conduct that type of research.
+This will be useful for me in the future: I'm interested in conducting further research on data use disclosures and consent interfaces in voice user interfaces such as smart speakers and phone voice assistants (with the goal of helping to inform best practices for these devices, and potentially even future regulation of those practices). I will need to be able to succinctly tell a story of why this research is needed.
 
 ### Setup
 
@@ -54,10 +54,11 @@ https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/
 
 ## Method and medium
 
-I plan to complete the final "story" for my project using Shorthand.
+I plan to complete the final "story" for my project using Shorthand. Some of the essential visuals will be charts showing the increase in adoption of voice assistants (both on phones and on standalone devices), as well as some charts documenting statistics on users' concern about privacy, some of the known privacy issues (such as the frequency with which these devices start recording by mistake, when a wake word wasn't actually said), and some of the usability concerns (e.g., a stat from [a Mozilla study](https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/) showing that >25% of people they studied did not know that they could delete data from the logs of these devices).
 
-Most of my visuals will likely be built using ggplot, since that's what I'm most familiar with, but I expect to build some of the visualizations using Tableau or other tools introduced in the class where possible.
+I also expect to use some visuals that show supplementary information that may not need to be presented as a chart. For example, I'm still trying to determine the best way to present conceptual visuals to emphasize where the data from these devices can flow to and the fact that employees at companies are sometimes listening to recordings from the devices directly.
 
+I will probably build some charts using Tableau and some using ggplot. I intend to build as many as I can with Tableau, since one of my goals in this course is to become more familiar with Tableau, but it's better at some things than others, so I'll switch to R/ggplot when it can't do what I need.
 
 ---
 
