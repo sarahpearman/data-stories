@@ -24,7 +24,7 @@ text.data = data.frame(year,median)
 
  ggplot(data=text.data, aes(x=year, y=median, fill=year)) +
   geom_bar(stat="identity", show.legend=FALSE) +
-   labs(title="Teens sending more texts in 2011 than in 2009",
+   labs(title="Teens are sending more texts in 2011 than in 2009",
         x="Year",
         y="Median response: Texts sent per day") +
    theme_minimal() +
