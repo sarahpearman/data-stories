@@ -12,7 +12,7 @@ Adoption of smart speakers and voice assistants is growing. Pew Research found t
 
 ### Conflict
 
-Many people don't trust these devices (including some who own them), and people who own them and do trust them sometimes have fundamental misunderstandings of what may be happening with their data.
+Many people don't trust these devices (including some who own them), and people who own them and do trust them sometimes have fundamental misunderstandings of what may be happening with their data and may not know what options are available to help them manage their privacy.
 
 ### Resolution
 
