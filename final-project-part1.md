@@ -8,7 +8,7 @@ This will be useful for me in the future: I'm interested in conducting further r
 
 ### Setup
 
-Adoption of smart speakers and voice assistants is growing. Pew Research found that nearly half of Americans surveyed used voice assistants in May 2017, and 17% on a standalone device such as an Amazon Echo [topline data here](https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf). About two years later, in their June 2019 American Trends Panel, Pew found that 25% of households surveyed had standalone voice assistant devices [topline data here](https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.21_SmartSpeaker_methods-topline-final-11.21.pdf).
+Adoption of smart speakers and voice assistants is growing. Pew Research found that nearly half of Americans surveyed used voice assistants in May 2017, and 17% on a standalone device such as an Amazon Echo ([topline data here](https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf)). About two years later, in their June 2019 American Trends Panel, Pew found that 25% of households surveyed had standalone voice assistant devices ([topline data here](https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.21_SmartSpeaker_methods-topline-final-11.21.pdf)).
 
 ### Conflict
 
