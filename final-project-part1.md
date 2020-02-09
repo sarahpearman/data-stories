@@ -1,5 +1,7 @@
 # More and more people are putting smart speakers in their homes, but people still aren't sure whether they can trust these devices.
 
+![Outline drawn in class](https://raw.githubusercontent.com/sarahpearman/data-stories/master/sketches/story.jpg)
+
 ## Outline
 
 I plan to tell a story about how adoption of smart speakers (e.g., Alexa devices) is increasing, while trust in their privacy practices does not seem to be increasing accordingly. I will use public Pew Research data from 2017 and 2019 that includes general adoption percentages for these devices as well as questions about people's usage of these devices and opinions about them. I may also use some other research data and news reports, depending on what I am able to scrape, but the Pew datasets will be my main source since they are public.
@@ -21,6 +23,13 @@ The research and best practices on designing for usability and privacy in voice 
 In the meantime, regular users should take note of whether these devices are using their data in ways they are comfortable with. Users can consider this when deciding what they do and do not want to purchase, and they can also choose to change the privacy settings on their devices from the defaults if they want more control over how their data is used.
 
 ## Initial sketches
+
+![Charts showing increase in smart speaker adoption and high levels of concern about data privacy](https://raw.githubusercontent.com/sarahpearman/data-stories/master/sketches/pies.jpg)
+
+![Data movement chart](https://raw.githubusercontent.com/sarahpearman/data-stories/master/sketches/data-movement.jpg)
+
+![User data privacy concern chart](https://raw.githubusercontent.com/sarahpearman/data-stories/master/sketches/concern.jpg)
+
 
 ## The data
 
