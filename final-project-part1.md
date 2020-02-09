@@ -24,6 +24,8 @@ In the meantime, regular users should take note of whether these devices are usi
 
 ## The data
 
+### Main data sources
+
 My main data sources will be two sets of Pew Research survey results.
 
 The first comes from the May 2017 American Trends Panel (Wave 27). That dataset is publicly available in full [from this list](https://www.pewresearch.org/internet/datasets/) with a free Pew Research account, but it can't be directly linked since signin is required to download the raw datasets from their website. The topline report for the relevant data is also available [here]().
@@ -32,24 +34,27 @@ The second source comes from the June 2019 American Trends Panel (Wave 35). The 
 
 Both of these datasets consist of >4000 U.S. adults who are randomly selected from the general population.
 
-### Possible supplementary data sources
+### Additional context
 
-I am also exploring other context that may be useful, including statistics cited in academic papers and news publications listed below. In those cases, the full data may not be available, but the simple percentages and counts that I need can be taken directly from the publications.
+I expect to use some data points from these two papers: 
 
-http://www-personal.umich.edu/~tawfiqam/Ammari_TOCHI_2019.pdf
+Academic paper on privacy concerns surrounding smart speakers: https://www.key4biz.it/wp-content/uploads/2018/11/cscw102-lau-1.pdf
+
+Mozilla paper (official publication and blog-style summary):
+* http://www-personal.umich.edu/~tawfiqam/Ammari_TOCHI_2019.pdf
+* https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/
+
+### Other possible supplementary data sources
+
+I am also exploring other context that may be useful, including statistics cited in academic papers and news publications listed below. As above, I may not be able to get the original dataset for these, but I can cite simple summary statistics from the publications.
 
 https://yixinzou.github.io/publications/popets2020-mhaidli.pdf
-
-https://www.key4biz.it/wp-content/uploads/2018/11/cscw102-lau-1.pdf
 
 https://foundation.mozilla.org/en/privacynotincluded/
 
 https://www.bloomberg.com/news/articles/2019-12-31/you-re-home-alone-with-alexa-are-your-secrets-safe-quicktake
 
 https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio
-
-https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/
-
 
 
 ## Method and medium
