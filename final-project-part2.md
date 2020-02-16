@@ -72,15 +72,16 @@ I plan to make more changes, but I wanted to get more feedback on what method of
 
 ## User 2
 
-* If you had to describe in a couple of sentences what the message of this presentation was, what would you say?
-* Who do you think is the intended audience for this presentation?
-* What parts were confusing?
-* What parts were most informative?
-* Was there any information you thought was missing?
-* Was there any information that seemed unnecessary or distracting?
-* What did the 2nd-to-last chart with the Xs and check marks mean to you? Would you suggest any changes to make it clearer?
-* What did the last chart mean to you? Would you suggest any changes to make it clearer? (The readability chart)
-* Do you have any other questions or feedback?
+Paraphrased feedback from User 2:
+* If you had to describe in a couple of sentences what the message of this presentation was, what would you say?: **"Smart speakers are recording info; it's not clear or easy to disable that"**
+* Who do you think is the intended audience for this presentation?: **People who own smart speakers**
+* What parts were confusing?: **Generally clear, but last 2 charts could be clearer**
+* What parts were most informative?: **Thought the last chart was the most interesting, especially that Apple seems most privacy-friendly in having the setting for saving recordings off by default but also has the most complex language to explain the setting**
+* Was there any information you thought was missing?: **No**
+* Was there any information that seemed unnecessary or distracting?: **See below**
+* What did the 2nd-to-last chart with the Xs and check marks mean to you? Would you suggest any changes to make it clearer?: **(We talked about this one for a while, and the conclusion was ultimately that there should not be two columns per product and that the "Understands" column could be removed without losing meaning)**
+* What did the last chart mean to you? Would you suggest any changes to make it clearer? (The readability chart): **(We also talked about this one for a while. He did not like the corner labels and suggested removing those. Said he didn't like "labels that try to help you interpret a graph" and just preferred clearly-labeled axes. Also said it was not clear what "grade level" meant and that the axis label and tick mark labels would need to be clarified for an audience that didn't know what a Flesch-Kincaid score was. In particular, since "grade 14" isn't really meaningful, he said it would be useful to add more context with labels like "elementary school level" and "college level.")**
+* Do you have any other questions or feedback?: **No**
 
 # Round 3
 
