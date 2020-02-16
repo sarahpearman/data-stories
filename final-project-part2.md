@@ -85,6 +85,18 @@ Paraphrased feedback from User 2:
 
 # Round 3
 
+Based on the feedback from User 2, I made the following changes:
+* 2nd-to-last chart:
+  * Removed superfluous column of information
+  * Clearer title (hopefully)
+  * Explanatory legend for X symbol
+* Readability chart:
+  * Added additional reference line to contextualize what grade level meant for users not familiar with Flesch-Kincaid (especially to explain why the y-axis on that graph can go up to 14)
+  * Changed legend title
+  * Got rid of colors/legend for product variable
+  * Removed corner labels that User 2 thought were unnecessary/confusing
+  * X-axis no longer truncated (starts at 1 instead of 4)
+
 ## Storyboard v3
 
 ## User 3
