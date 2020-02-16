@@ -105,5 +105,21 @@ Based on the feedback from User 2, I made the following changes:
 
 ---
 
+# References for data used in these storyboards
+
+* Pew 2017 voice assistants report based on 2017 American Trends Panel data, https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf
+* Pew 2019 smart speaker report based on 2019 American Trends Panel data, https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.21_SmartSpeaker_methods-topline-final-11.21.pdf
+* NPR Smart Audio Report Winter 2019, https://www.nationalpublicmedia.com/insights/reports/smart-audio-report/
+* Google Trends query for "Alexa Privacy": https://trends.google.com/trends/explore?date=all&geo=US&q=alexa privacy
+* Collected some data myself directly from Amazon Echo Dot device, Amazon Alexa iOS app, Google Home Mini device, Google Assistant iOS app, and iOS Settings app
+* Readability scores calculated by WebFX Readability Test Tool, https://www.webfx.com/tools/read-able/
+
+# Related files
+
+* Readability data spreadsheet
+* Alexa and Google Home recordings
+
+---
+
 [Back to Home](https://sarahpearman.github.io/data-stories/)
 
