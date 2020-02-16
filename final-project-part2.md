@@ -45,6 +45,37 @@ Paraphrased notes from this interview:
 * What did the last chart mean to you? Would you suggest any changes to make it clearer? (The readability chart): **"how hard/easy to access the information it is, both in steps and in readability. You could try some infographic-y visualizations, separating the two variables. E.g. have stairs for both, with the steps one clearly counting steps, and the other one indicating degree or school progression (I don't expect most people to know the Flesch-Kincaid scale). I also didn't notice/figure out why there were different icons until I actually looked for it, so maybe find a different way to represent that information?..."**
 * Do you have any other questions or feedback? **Liked the topic. Suggested a less generic final call to action, since "more research is needed... is pretty standard"**
 
+# Round 2
+
+## Wireframe 2
+
+I made the following changes based on feedback from the first interview:
+* Added title to 2nd-to-last graph
+* Changed title and subtitle to clarify last graph
+* Made call to action more specific
+
+I plan to make more changes, but I wanted to get more feedback on what method of presenting the last two graphs might work best. This was easier to do with the second interviewee since that interview happened in person.
+
+## User 2
+
+* If you had to describe in a couple of sentences what the message of this presentation was, what would you say?
+* Who do you think is the intended audience for this presentation?
+* What parts were confusing?
+* What parts were most informative?
+* Was there any information you thought was missing?
+* Was there any information that seemed unnecessary or distracting?
+* What did the 2nd-to-last chart with the Xs and check marks mean to you? Would you suggest any changes to make it clearer?
+* What did the last chart mean to you? Would you suggest any changes to make it clearer? (The readability chart)
+* Do you have any other questions or feedback?
+
+# Round 3
+
+## Wireframe 3
+
+## User 3
+
+# Final Wireframe After Interviews
+
 ---
 
 [Back to Home](https://sarahpearman.github.io/data-stories/)
