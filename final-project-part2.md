@@ -2,6 +2,20 @@
 
 ---
 
+# Table of Contents
+
+[User Research Plan](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#user-research-plan)
+
+[Round 1](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#round-1)
+
+[Round 2](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#round-2)
+
+[Round 3](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#round-3)
+
+[Final Storyboard](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#final-storyboard)
+
+---
+
 # User Research Plan
 
 I used the following **script** for my user interviews:
@@ -25,7 +39,7 @@ I tested this storyboard with three people, iterating each time. I **chose indiv
 
 # Round 1
 
-## Wireframe 1
+## Storyboard v1
 
 My initial storyboard with wireframes of the relevant charts was built in Balsamiq and is shown below.
 
@@ -47,7 +61,7 @@ Paraphrased notes from this interview:
 
 # Round 2
 
-## Wireframe 2
+## Storyboard v2
 
 I made the following changes based on feedback from the first interview:
 * Added title to 2nd-to-last graph
@@ -70,11 +84,11 @@ I plan to make more changes, but I wanted to get more feedback on what method of
 
 # Round 3
 
-## Wireframe 3
+## Storyboard v3
 
 ## User 3
 
-# Final Wireframe After Interviews
+# Final Storyboard
 
 ---
 
