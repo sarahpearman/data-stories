@@ -112,6 +112,10 @@ Based on the feedback from User 2, I made the following changes:
 * NPR Smart Audio Report Winter 2019, https://www.nationalpublicmedia.com/insights/reports/smart-audio-report/
 * Google Trends query for "Alexa Privacy": https://trends.google.com/trends/explore?date=all&geo=US&q=alexa privacy
 * Readability scores calculated by WebFX Readability Test Tool, https://www.webfx.com/tools/read-able/
+* Recommended reading level in final chart based on Nielsen-Norman Group information: https://www.nngroup.com/articles/legibility-readability-comprehension/
+* Intentionally did *not* add a reference line for the number of steps/clicks/touches that would be ideal to get to the setting in the final chart based on these references:
+  * https://www.nngroup.com/articles/3-click-rule/
+  * https://www.nngroup.com/articles/interaction-elasticity/
 
 ## Self-collected data
 
