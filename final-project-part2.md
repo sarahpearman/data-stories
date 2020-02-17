@@ -14,6 +14,8 @@
 
 [Final Storyboard](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#final-storyboard)
 
+[References](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#references)
+
 ---
 
 # User Research Plan
@@ -39,9 +41,12 @@ I tested this storyboard with three people, iterating each time. I **chose indiv
 
 # Round 1
 
+My initial storyboard with wireframes of the relevant charts was built in Balsamiq and is shown below.
+
 ## Storyboard v1
 
-My initial storyboard with wireframes of the relevant charts was built in Balsamiq and is shown below.
+![storyboard1](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/wireframe1-1.png)
+
 
 ## User 1
 
@@ -61,14 +66,16 @@ Paraphrased notes from this interview:
 
 # Round 2
 
-## Storyboard v2
-
 I made the following changes based on feedback from the first interview:
 * Added title to 2nd-to-last graph
 * Changed title and subtitle to clarify last graph
 * Made call to action more specific
 
-I plan to make more changes, but I wanted to get more feedback on what method of presenting the last two graphs might work best. This was easier to do with the second interviewee since that interview happened in person.
+I knew I would make more changes as well, but I wanted to get more feedback on what method of presenting the last two graphs might work best. This was easier to do with the second interviewee since that interview happened in person.
+
+## Storyboard v2
+
+![storyboard2](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/wireframe2.png)
 
 ## User 2
 
@@ -99,9 +106,28 @@ Based on the feedback from User 2, I made the following changes:
 
 ## Storyboard v3
 
+![storyboard3](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/wireframe3.png)
+
 ## User 3
 
-# Final Storyboard
+Paraphrased feedback from User 3:
+* If you had to describe in a couple of sentences what the message of this presentation was, what would you say?: **People are confused about privacy stuff with smart speakers / don't understand it, in part because it's deliberately made hard to find**
+* Who do you think is the intended audience for this presentation?: **Relatively educated audience, used to reading about technology and looking at charts, but not necessarily experts. Gave the example of a publication like the Economist. At least high school graduate**
+* What parts were confusing?: **The last chart**
+* What parts were most informative?: **Liked 2nd-to-last chart**
+* Was there any information you thought was missing?: **No**
+* Was there any information that seemed unnecessary or distracting?: **The format of the last graph**
+* What did the 2nd-to-last chart with the Xs and check marks mean to you? Would you suggest any changes to make it clearer?: **Liked this one, understood that it meant that the smart speakers couldn't directly engage in conversation about their own privacy attributes**
+* What did the last chart mean to you? Would you suggest any changes to make it clearer? (The readability chart): **Thought it was confusing to have these two variables plotted against each other like this since they aren't directly related / because it's not trying to show a correlation. Suggested a few other types of graph that might be more intuitive.**
+* Do you have any other questions or feedback?: **No**
+
+## Final Storyboard
+
+![final storyboard](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/final-wireframe.png)
+
+My tentative final storyboard shown above is Storyboard 3 without any major changes, but I still want to think more about whether there is a better way to show the final chart, since I got mixed feedback about it. I drafted the chart below based on some suggestions from User 3, but I'm not sure it's any clearer, and I didn't come up with any other ideas that seem worth testing yet, but I'll brainstorm more and see if I can come up with anything before the final version of this project.
+
+![readability chart alt version](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/alt-readability-chart.png)
 
 ---
 
@@ -122,8 +148,8 @@ Based on the feedback from User 2, I made the following changes:
 I collected some data myself directly from Amazon Echo Dot device, Amazon Alexa iOS app, Google Home Mini device, Google Assistant iOS app, and iOS Settings app.
 
 Relevant files in Github:
-* Readability data spreadsheet
-* Alexa and Google Home recordings
+* [Readability data](https://github.com/sarahpearman/data-stories/tree/master/final-project-files/readability)
+* [Alexa and Google Home recordings](https://github.com/sarahpearman/data-stories/tree/master/final-project-files/recordings)
 
 ## Tools used
 
