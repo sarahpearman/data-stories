@@ -138,7 +138,7 @@ My tentative final storyboard shown above is Storyboard 3 without any major chan
 * Pew 2017 voice assistants report based on 2017 American Trends Panel data, https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf
 * Pew 2019 smart speaker report based on 2019 American Trends Panel data, https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.21_SmartSpeaker_methods-topline-final-11.21.pdf
 * NPR Smart Audio Report Winter 2019, https://www.nationalpublicmedia.com/insights/reports/smart-audio-report/
-* Google Trends query for "Alexa Privacy": https://trends.google.com/trends/explore?date=all&geo=US&q=alexa privacy
+* Google Trends query for "Alexa Privacy": https://trends.google.com/trends/explore?date=2014-01-01%202020-02-14&geo=US&q=alexa%20privacy (downloaded csv [here](https://github.com/sarahpearman/data-stories/tree/master/final-project-files/google-trends-data))
 * Readability scores calculated by WebFX Readability Test Tool, https://www.webfx.com/tools/read-able/
 * Recommended reading level in final chart based on Nielsen-Norman Group information: https://www.nngroup.com/articles/legibility-readability-comprehension/
 * Intentionally did *not* add a reference line for the number of steps/clicks/touches that would be ideal to get to the setting in the final chart based on these references:
