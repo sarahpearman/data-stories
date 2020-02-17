@@ -45,7 +45,7 @@ My initial storyboard with wireframes of the relevant charts was built in Balsam
 
 ## Storyboard v1
 
-![storyboard1](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/wireframe1-1.png)
+![storyboard1](https://raw.githubusercontent.com/sarahpearman/data-stories/master/final-project-files/storyboards/wireframe1-1.png)
 
 
 ## User 1
@@ -75,7 +75,7 @@ I knew I would make more changes as well, but I wanted to get more feedback on w
 
 ## Storyboard v2
 
-![storyboard2](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/wireframe2.png)
+![storyboard2](https://raw.githubusercontent.com/sarahpearman/data-stories/master/final-project-files/storyboards/wireframe2.png)
 
 ## User 2
 
@@ -106,7 +106,7 @@ Based on the feedback from User 2, I made the following changes:
 
 ## Storyboard v3
 
-![storyboard3](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/wireframe3.png)
+![storyboard3](https://raw.githubusercontent.com/sarahpearman/data-stories/master/final-project-files/storyboards/wireframe3.png)
 
 ## User 3
 
@@ -123,11 +123,11 @@ Paraphrased feedback from User 3:
 
 ## Final Storyboard
 
-![final storyboard](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/final-wireframe.png)
+![final storyboard](https://raw.githubusercontent.com/sarahpearman/data-stories/master/final-project-files/storyboards/final-wireframe.png)
 
 My tentative final storyboard shown above is Storyboard 3 without any major changes, but I still want to think more about whether there is a better way to show the final chart, since I got mixed feedback about it. I drafted the chart below based on some suggestions from User 3, but this and the other formats I tried seemed less clear rather than more clear (and didn't allow for adding the third variable related to the default setting), and I didn't come up with any other ideas that seem worth testing yet, but I'll brainstorm more and see if I can come up with anything before the final version of this project.
 
-![readability chart alt version](https://github.com/sarahpearman/data-stories/blob/master/final-project-files/storyboards/alt-readability-chart.png)
+![readability chart alt version](https://raw.githubusercontent.com/sarahpearman/data-stories/master/final-project-files/storyboards/alt-readability-chart.png)
 
 ---
 
