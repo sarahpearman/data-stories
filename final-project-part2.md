@@ -131,7 +131,9 @@ My tentative final storyboard shown above is Storyboard 3 without any major chan
 
 ---
 
-# Public data
+# References
+
+## Public data
 
 * Pew 2017 voice assistants report based on 2017 American Trends Panel data, https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf
 * Pew 2019 smart speaker report based on 2019 American Trends Panel data, https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.21_SmartSpeaker_methods-topline-final-11.21.pdf
