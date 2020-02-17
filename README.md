@@ -21,6 +21,8 @@ I will almost certainly be a researcher of some kind after graduation, and I thi
 
 [Final Project, Part 1](/final-project-part1.md)
 
+[Final Project, Part 2](/final-project-part2.md)
+
 # Dog!
 
 This picture of my dog was here as a placeholder originally, but who's mad about an unsolicited dog photo?
