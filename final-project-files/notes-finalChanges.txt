@@ -1,0 +1,5 @@
+notes on final chart decisions
+
+- num of smart speakers: When I drew this in Tableau, I realized the increase was not really very clear from a line chart, especially since there were only 3 data points. I decided a bar chart would be better for drawing attention to the fact that the number had more than doubled from 2017 to 2019, since the bars make it easy to compare those proportions.
+
+- 
