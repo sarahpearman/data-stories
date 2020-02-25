@@ -1,5 +1,34 @@
+
+
 notes on final chart decisions
 
 - num of smart speakers: When I drew this in Tableau, I realized the increase was not really very clear from a line chart, especially since there were only 3 data points. I decided a bar chart would be better for drawing attention to the fact that the number had more than doubled from 2017 to 2019, since the bars make it easy to compare those proportions.
 
 - 
+
+
+
+
+-------
+
+image sources:
+
+
+alexa with eyes:
+Image via Robert Couse-Baker, CC BY-SA 2.0
+https://www.flickr.com/photos/29233640@N07/40699742711
+https://creativecommons.org/licenses/by/2.0/
+
+alexa muted 2:
+Image via Tony Webster, CC BY-SA 2.0
+https://www.flickr.com/photos/diversey/31501674177
+https://creativecommons.org/licenses/by/2.0/
+
+alexa muted 1: 
+Image via Tony Webster, CC BY-SA 2.0
+https://www.flickr.com/photos/diversey/45718825084
+https://creativecommons.org/licenses/by/2.0/
+
+alexa connected:
+Image via www.vpnsrus.com (Mike MacKenzie), CC BY-SA 2.0
+https://creativecommons.org/licenses/by/2.0/
