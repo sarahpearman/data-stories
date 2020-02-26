@@ -4,7 +4,7 @@ This is my public portfolio for Telling Stories with Data (spring 2020).
 
 URL to link back to this page: https://sarahpearman.github.io/data-stories/
 
-Github repository: https://github.com/sarahpearman/data-stories
+GitHub repository: https://github.com/sarahpearman/data-stories
 
 # About me
 
