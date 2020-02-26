@@ -1,6 +1,29 @@
+[Back to Home](https://sarahpearman.github.io/data-stories/)
+
+---
+
 # Smart speakers & privacy choices
 
-This page summarizes my work on my final project for Telling Stories with Data, Spring 2020.
+## Summary
+
+This page summarizes my work on my final project for Telling Stories with Data, Spring 2020. I use existing data to describe users' attitudes towards smart speakers, especially what we know about their privacy concerns, and I also describe data I collected from these devices and their accompanying smartphone apps to assess the usability of their privacy controls.
+
+In short: these devices are increasingly popular, but people are also increasingly worried about their privacy implications, and there's a lot of room for improvement on the usability of their privacy controls!
+
+## Table of contents
+
+[Part 1](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#part-1)
+
+[Part 2](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#part-2)
+
+[Part 3](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#part-2)
+* [Links to final deliverables](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#final-deliverable)
+* [Intended audience](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#intended-audience)
+* [Design process](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#design-process)
+* [Final reference list](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#references)
+* [Other notes](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#other-notes)
+
+---
 
 ## Part 1
 
