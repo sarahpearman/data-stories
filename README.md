@@ -15,13 +15,19 @@ I will almost certainly be a researcher of some kind after graduation, and I thi
 
 # Portfolio
 
-[Assignment: OECD data visualization](/dataviz2.md)
+## Final Project: Smart Speakers & Privacy Choices
+
+[Part 1: High-level project plan](/final-project-part1.md)
+
+[Part 2: Storyboards and user testing](/final-project-part2.md)
+
+[Part 3 & 4: Final deliverable and presentation](/final-project-main.md)
+
+##  Other assignments
 
 [Assignment: Critique by Design](/critique-by-design.md)
 
-[Final Project, Part 1](/final-project-part1.md)
-
-[Final Project, Part 2](/final-project-part2.md)
+[Assignment: OECD data visualization](/dataviz2.md)
 
 # Dog!
 
