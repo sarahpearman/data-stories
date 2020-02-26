@@ -4,31 +4,24 @@ notes on final chart decisions
 
 - num of smart speakers: When I drew this in Tableau, I realized the increase was not really very clear from a line chart, especially since there were only 3 data points. I decided a bar chart would be better for drawing attention to the fact that the number had more than doubled from 2017 to 2019, since the bars make it easy to compare those proportions.
 
-- 
+- changed everything to helvetica neue (charts in tableau and CSS in Shorthand): it was really bothering me that Shorthand had screen text in a serif font and that the default Shorthand font and the default Tableau font looked so different. I don't mind the Tableau font, but it definitely screams "THIS CHART CAME FROM TABLEAU."
 
+- colors: green to represent growth & avoid implying negative valence
+dark red for the parts that reflected concern, negative attitudes towards this tech
 
+- for concern pie chart: still deciding whether to label other section (gray part) and whether to specify "at least somewhat concerned" in title, but for presentation, I figure less is more
 
-
+- realized I cited the wrong source in the wireframes for the 26.8% pie chart: this is from this Mozilla paper: http://web.mit.edu/bentley/www/papers/iot.pdf
 -------
 
-image sources:
+https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf
+http://www-personal.umich.edu/~tawfiqam/Ammari_TOCHI_2019.pdf
+
+additional references:
+
+https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio
+https://www.theverge.com/2019/8/29/20837077/apple-siri-privacy-opt-out-voice-human-grading-review
 
 
-alexa with eyes:
-Image via Robert Couse-Baker, CC BY-SA 2.0
-https://www.flickr.com/photos/29233640@N07/40699742711
-https://creativecommons.org/licenses/by/2.0/
-
-alexa muted 2:
-Image via Tony Webster, CC BY-SA 2.0
-https://www.flickr.com/photos/diversey/31501674177
-https://creativecommons.org/licenses/by/2.0/
-
-alexa muted 1: 
-Image via Tony Webster, CC BY-SA 2.0
-https://www.flickr.com/photos/diversey/45718825084
-https://creativecommons.org/licenses/by/2.0/
-
-alexa connected:
-Image via www.vpnsrus.com (Mike MacKenzie), CC BY-SA 2.0
-https://creativecommons.org/licenses/by/2.0/
+Alexa, are you listening to me? An analysis of Alexa voice service network
+traffic. 
