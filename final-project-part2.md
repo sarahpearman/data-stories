@@ -18,6 +18,11 @@
 
 ---
 
+# Note
+
+After this was graded for the course assignment, I realized that one of the figures in the wireframes below was misattributed. The pie chart indicating that 26.8% of users were unaware that they could delete device history is not from a Pew source: it is from the paper cited below.
+[Music, Search, and IoT: How People (Really) Use Voice Assistants.](http://web.mit.edu/bentley/www/papers/iot.pdf) T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. Publication date: April 2019.
+
 # User Research Plan
 
 I used the following **script** for my user interviews:
@@ -144,6 +149,7 @@ My tentative final storyboard shown above is Storyboard 3 without any major chan
 * Intentionally did *not* add a reference line for the number of steps/clicks/touches that would be ideal to get to the setting in the final chart based on these references:
   * https://www.nngroup.com/articles/3-click-rule/
   * https://www.nngroup.com/articles/interaction-elasticity/
+  * http://web.mit.edu/bentley/www/papers/iot.pdf
 
 ## Self-collected data
 
