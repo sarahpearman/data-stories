@@ -1,20 +1,23 @@
 # Smart speakers & privacy choices
 
+This page summarizes my work on my final project for Telling Stories with Data, Spring 2020.
+
 ## Part 1
 
-For more information about Part 1, visit the Part 1 page.
+For more information about Part 1, visit [the Part 1 page](https://sarahpearman.github.io/data-stories/final-project-part1.html).
 
 ## Part 2
 
-For more information about Part 2, visit the Part 2 page.
+For more information about Part 2, visit [the Part 2 page](https://sarahpearman.github.io/data-stories/final-project-part2.html).
 
 ## Part 3
 
 ### Final deliverable
 
-* Abridged presentation version of Shorthand story:
-* Full data story:
-* Github repository: 
+* Data stories:
+  * Abridged presentation version:
+  * Full version:
+* Github repository: https://github.com/sarahpearman/data-stories
 
 ### Intended audience
 
