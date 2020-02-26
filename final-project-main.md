@@ -52,7 +52,35 @@ For more information about Part 2, visit [the Part 2 page](https://sarahpearman.
 
 ### References
 
-*Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctlyLinks to an external site..  Make sure to add / update any citations and / or other content that you used to create your data story.  References should also be clearly identified on your final data story itself.  (Part III)*
+#### Data sources, news sources, websites, and tools referenced in Shorthand report
+
+Amazon Alexa iOS app, version 2.2.x (February 2020).
+
+T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. [Music, Search, and IoT: How People (Really) Use Voice Assistants](http://web.mit.edu/bentley/www/papers/iot.pdf). ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. Publication date: April 2019. Mozilla's summary blog post also available [here](https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/).
+
+M. Day, G. Turner, and N. Drozdiak. [Amazon Workers Are Listening to What You Tell Alexa.](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio) Bloomberg News, April 2019.
+
+[Google Trends query for "Alexa Privacy"](https://trends.google.com/trends/explore?date=2014-01-01%202020-02-14&geo=US&q=alexa%20privacy). Downloaded csv [here](https://github.com/sarahpearman/data-stories/tree/master/final-project-files/google-trends-data). Data shown in line graph only includes a subset (2017-2019).
+
+[NPR Smart Audio Report Winter 2019](https://www.nationalpublicmedia.com/insights/reports/smart-audio-report/).
+
+Pew Research Center 2017 [voice assistants report](https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf), based on 2017 American Trends Panel Wave 27 conducted May 1-15, 2017. The  full American Trends Panel dataset can also be downloaded [here](https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-27/) (with free account registration).
+
+Pew Research Center 2019 [smart speaker report](https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.21_SmartSpeaker_methods-topline-final-11.21.pdf) based on 2019 American Trends Panel data. Full dataset not yet available for download: percentage numbers used in pie charts were taken directly from topline report.
+
+https://www.theverge.com/2019/8/29/20837077/apple-siri-privacy-opt-out-voice-human-grading-review
+
+[WebFX Readability Test Tool](https://www.webfx.com/tools/read-able/).
+
+#### Image sources
+
+#### Other
+
+Intentionally did *not* add a reference line for the number of steps/clicks/touches that would be ideal to get to the setting in the final chart based on these references:
+* https://www.nngroup.com/articles/3-click-rule/
+* https://www.nngroup.com/articles/interaction-elasticity/
+* http://web.mit.edu/bentley/www/papers/iot.pdf
+
 
 ### Other notes
 
