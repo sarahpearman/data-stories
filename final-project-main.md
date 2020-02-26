@@ -32,15 +32,15 @@ For more information about Part 1, visit [the Part 1 page](https://sarahpearman.
 ## Part 2
 
 For more information about Part 2, visit [the Part 2 page](https://sarahpearman.github.io/data-stories/final-project-part2.html).
-
+ 
 ## Part 3
 
 ### Final deliverable
 
 * Data stories:
-  * Abridged presentation version:
-  * Full version:
-* Github repository: https://github.com/sarahpearman/data-stories
+  * Abridged presentation version: [https://carnegiemellon.shorthandstories.com/smartSpeakerPrivacy-presentationVersion/index.html](https://carnegiemellon.shorthandstories.com/smartSpeakerPrivacy-presentationVersion/index.html)
+  * Full version: [https://carnegiemellon.shorthandstories.com/smartSpeakerPrivacy/index.html](https://carnegiemellon.shorthandstories.com/smartSpeakerPrivacy/index.html)
+* Github repository: [https://github.com/sarahpearman/data-stories](https://github.com/sarahpearman/data-stories)
 
 ### Intended audience
 
@@ -54,11 +54,17 @@ For more information about Part 2, visit [the Part 2 page](https://sarahpearman.
 
 #### Data sources, news sources, websites, and tools referenced in Shorthand report
 
-Amazon Alexa iOS app, version 2.2.x (February 2020).
+Amazon Alexa iOS app, version 2.2 (February 2020).
 
 T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. [Music, Search, and IoT: How People (Really) Use Voice Assistants](http://web.mit.edu/bentley/www/papers/iot.pdf). ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. Publication date: April 2019. Mozilla's summary blog post also available [here](https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/).
 
-M. Day, G. Turner, and N. Drozdiak. [Amazon Workers Are Listening to What You Tell Alexa.](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio) Bloomberg News, April 2019.
+Apple Settings app, Siri & Search, iOS version 13.3.1 (February 2020).
+
+D. Bohn. [Apple was a little behind on Siri privacy, now it’s way ahead](https://www.theverge.com/2019/8/29/20837077/apple-siri-privacy-opt-out-voice-human-grading-review). The Verge. August 29, 2019.
+
+M. Day, G. Turner, and N. Drozdiak. [Amazon Workers Are Listening to What You Tell Alexa](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio). Bloomberg News. April 10, 2019.
+
+Google Home iOS app, version 2.17 (February 2020).
 
 [Google Trends query for "Alexa Privacy"](https://trends.google.com/trends/explore?date=2014-01-01%202020-02-14&geo=US&q=alexa%20privacy). Downloaded csv [here](https://github.com/sarahpearman/data-stories/tree/master/final-project-files/google-trends-data). Data shown in line graph only includes a subset (2017-2019).
 
@@ -70,9 +76,13 @@ Pew Research Center 2019 [smart speaker report](https://www.pewresearch.org/wp-c
 
 https://www.theverge.com/2019/8/29/20837077/apple-siri-privacy-opt-out-voice-human-grading-review
 
-[WebFX Readability Test Tool](https://www.webfx.com/tools/read-able/).
+[WebFX Readability Test Tool](https://www.webfx.com/tools/read-able/) used to calculate readability metrics for app settings.
 
 #### Image sources
+
+Images from Pixabay (user HeikoAL), Wikimedia Commons (users SimonWaldherr, Y2kcrazyjoker4, Gregory Varnum, TKsdik8900), Robert Couse-Baker on Flickr, and vpnsrus.com.
+
+See [full Shorthand story](https://carnegiemellon.shorthandstories.com/smartSpeakerPrivacy/index.html) for more details on individual images and licenses.
 
 #### Other
 
