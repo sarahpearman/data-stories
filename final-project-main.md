@@ -152,9 +152,9 @@ Tableau Desktop 2019.4, Excel for Mac 16.33, BBEdit, Preview, Github, Balsamiq W
 Some data collected from direct voice interactions with Amazon Echo Dot and Google Home Mini.
 
 Intentionally did *not* add a reference line for the number of steps/clicks/touches that would be ideal to get to the setting in the final chart based on these references:
-* https://www.nngroup.com/articles/3-click-rule/
-* https://www.nngroup.com/articles/interaction-elasticity/
-* http://web.mit.edu/bentley/www/papers/iot.pdf
+* [https://www.nngroup.com/articles/3-click-rule/](https://www.nngroup.com/articles/3-click-rule/)
+* [https://www.nngroup.com/articles/interaction-elasticity/](https://www.nngroup.com/articles/interaction-elasticity/)
+* [http://web.mit.edu/bentley/www/papers/iot.pdf](http://web.mit.edu/bentley/www/papers/iot.pdf)
 
 Any data that is not linked above, including the data I collected myself, is included in my GitHub repository.
 * [Readability data](https://github.com/sarahpearman/data-stories/tree/master/final-project-files/readability)
