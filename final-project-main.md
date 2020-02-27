@@ -27,15 +27,23 @@ In short: these devices are increasingly popular, but people are also increasing
 
 ## Part 1
 
+For Part 1, I knew I wanted to work on the general topic of smart speakers and privacy, but I wasn't sure exactly what the story was or what data I would use. I knew Pew Research data would be useful because it's some of the largest-scale data available, even if it's based on mostly a few high-level questions. I sketched some ideas of how I would tell a story with the 2017 and 2019 Pew data and with some data points from published academic papers. I wasn't satisfied with this story--it felt like just the introduction to a story--but I wasn't sure what data I would use, since part of the problem I'm trying to portray here is that we don't have enough data yet to fully understand this problem.
+
 For more information about Part 1, visit [the Part 1 page](https://sarahpearman.github.io/data-stories/final-project-part1.html).
 
 ## Part 2
+
+At some point in brainstorming for Part 2, I realized that I could tell a more interesting story if I collected some data on my own. I collected data from asking my own smart speakers privacy-related questions, and I also explored their corresponding apps and gathered metrics on how difficult it was to find privacy settings in the apps as well as how complex the language in the settings was.
+
+I then built a wireframe of a story with the data from Part 1 plus the data I collected in Part 2. I tested that wireframe with three users--one expert user with a background similar to mine, one user who is not an expert in technology or privacy but who has more visual design background than I do, and one general-audience user. I iterated based on their feedback and arrived at a final wireframe.
 
 For more information about Part 2, visit [the Part 2 page](https://sarahpearman.github.io/data-stories/final-project-part2.html).
  
 ## Part 3
 
 ### Final deliverable
+
+I used my final wireframe to build various charts in Tableau, and I presented a story using those charts in Shorthand. I also added pieces of supporting information from a number of sources along the way.
 
 * Data stories:
   * Abridged presentation version: [https://carnegiemellon.shorthandstories.com/smartSpeakerPrivacy-presentationVersion/index.html](https://carnegiemellon.shorthandstories.com/smartSpeakerPrivacy-presentationVersion/index.html)
