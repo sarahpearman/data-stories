@@ -134,7 +134,7 @@ Tableau Desktop 2019.4, Excel for Mac 16.33, BBEdit, Preview, Github, Balsamiq W
 
 #### Other
 
-Some data collected from direct voice interactions with Amazon Echo Dot
+Some data collected from direct voice interactions with Amazon Echo Dot and Google Home Mini.
 
 Intentionally did *not* add a reference line for the number of steps/clicks/touches that would be ideal to get to the setting in the final chart based on these references:
 * https://www.nngroup.com/articles/3-click-rule/
