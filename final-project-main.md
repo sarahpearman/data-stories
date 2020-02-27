@@ -71,9 +71,13 @@ After that, I iterated on the images and the text as I figured out what did and 
 * I went back and forth about what date range to include in the line chart about the Google search trends. In the presentation, I used 2017 to 2019, since that matches the adoption trend from the bar graph before that, but the overall trend is clearer if I start at Alexa release in late 2014, so I decided to put that in the full Shorthand.
 * I decided to use a different stat to make the point I was making with the third pie chart in the wireframe. Instead of saying that 26.8% of users don't realize they can delete device history, I decided it was more compelling to include the stat indicating that only 11% of users had actually done so.
 
-A design struggle that I faced at first was figuring out how to ensure that charts would display fully in the wide aspect ratio that Shorthand uses. Shorthand does not necessarily shrink images to fit vertically, so I had to build wide chart images with extra whitespace on the sides to ensure that the whole chart would fit on the screen at once (while also maximizing the chart size to make sure it was legible, especially when projected).
+A design struggle that I faced at first was figuring out how to ensure that charts would display fully in the wide aspect ratio that Shorthand uses. Shorthand does not necessarily shrink images to fit vertically, so I had to build wide chart images with extra whitespace on the sides to ensure that the whole chart would fit on the screen at once (while also maximizing the chart size to make sure it was legible, especially when projected). I also had to make fonts a lot larger than I otherwise would have to ensure that they would project at a readable size for the presentation.
 
-I found it odd that Shorthand uses a sans serif font for headings but a serif font for body text, since I've always been taught that serif fonts are harder to read on screens. (It also just looked weird and distracting to me to have so many different fonts.) I added some custom CSS to force Shorthand to use a sans serif font everywhere (it should be displaying in Helvetica Neue wherever possible). I also found it jarring to have 
+I found it odd that Shorthand uses a sans serif font for headings but a serif font for body text, since I've always been taught that serif fonts are harder to read on screens. (It also just looked weird and distracting to me to have so many different fonts.) I added some custom CSS to force Shorthand to use a sans serif font everywhere (it should be displaying in Helvetica Neue wherever possible). I also found it jarring to have Tableau's font mixed in with that, so I changed all my charts to Helvetica-family fonts as well (mostly Helvetica Neue, although I think there might be some annotations in other Helvetica versions). I don't mind the Tableau font, but it definitely screams "THIS CHART CAME FROM TABLEAU."
+
+I decided to make the pie charts really, really simple, not even labeling both sections in some cases, and trusting the user to understand that if one big section had "No" in it then the other section represented "Yes." This seemed fine during my user testing, and I wanted to minimize the text on the charts, especially for purpose of the presentation.
+
+Beyond those aspects, I just iterated *many* times, adding notes where I realized there would be a gap in understanding (especially for a general audience), and changing charts to make them as simple and visually pleasing as possible.
 
 ### References
 
@@ -105,6 +109,8 @@ Pew Research Center 2019 [smart speaker report](https://www.pewresearch.org/wp-c
 https://www.theverge.com/2019/8/29/20837077/apple-siri-privacy-opt-out-voice-human-grading-review
 
 [WebFX Readability Test Tool](https://www.webfx.com/tools/read-able/) used to calculate readability metrics for app settings. The readability data can be found [here]().
+
+https://en.wikipedia.org/wiki/Amazon_Alexa (just to retrieve the Alexa release date)
 
 #### Image sources
 
