@@ -46,9 +46,34 @@ For more information about Part 2, visit [the Part 2 page](https://sarahpearman.
 
 *A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience.*
 
+I wanted this story to be accessible and compelling for multiple audiences. First, since I knew I would be presenting it in this class, I wanted to give enough background that it would make sense to someone without a great deal of technical knowledge or experience with information privacy issues. However, I also wanted it to offer information that would be of interest to someone who was familiar with the research in this area, since I would like to use this as a starting point for pitching more research on this topic (and potentially applying for more funding for such research).
+
+To make it accessible to a more general audience, I included the "brief history of voice assistants" section, which wouldn't really be necessary for an audience in my field, where it's generally accepted that voice assistants and Internet of Things devices are a growing and important space. I also discussed and included photos of some of the most popular smart speakers in case people were not as familiar with this category of products. This is also important since the terms people use for these products are often conflated. For example, the Amazon device is an Echo, and the underlying voice tech is Alexa, but people often use the terms interchangeably. This is fine in most contexts, but here it was necessary to try to disambiguate them to talk about some of the specifics of the applications of these devices on smart speakers.
+
+The data on this topic is pretty limited in the academic world. We have some NPR and Pew data that is very high-level, and we also have a small number of studies with qualitative sample sizes. This can make it difficult to demonstrate what the problem space is. I tried to use the existing data to lay the groundwork as well as I could for an expert audience, but I knew that for that type of audience, that data wouldn't tell them anything they didn't already know. (Smart speakers are popular, and sometimes they are recording when they're not supposed to be or when people don't know they are, and that causes privacy concerns. Okay. What else?)
+
+While we have data about users' self-reported attitudes toward smart speakers, what we don't have much of, from an expert standpoint, are the usability metrics that we would expect to see for a visual interface. To understand why so many people find these devices to be "creepy" despite the companies' efforts to respond to bad press, a crucial aspect is understanding what people actually experience if they try to find more privacy information or change their privacy settings. Some of my colleagues have worked on this recently for website privacy settings and opt-out mechanisms, so what I wanted to do here was give a glimpse of what would happen if we gave the voice interface the same treatment that people have been giving to visual privacy interfaces. I couldn't conduct extensive usability testing with lab studies and so forth for this course, but I could still collect some data, so I tried to answer the following questions and present the results in a way that would make sense to both audiences:
+- Can the devices answer privacy questions or perform privacy tasks in a useful way within the voice interface?
+- (Since I knew from past experience that the answer to the above would be no) How hard is it to find the privacy settings when you are sent to the visual interface? (Using steps/clicks as a simple proxy)
+- Once you find them, how hard is it to figure out what they mean? (Using readability as a proxy)
+
+I knew the latter two would be a little less clear to a non-expert audience without context for standard usability guidelines (although the ideas of steps and grade levels are still pretty accessible), but they are still easier proxies to understand than if I had included more variables or done more complex lab studies. I figured that if nothing else, the chart with 
+red X's would make it clear that there is room for improvement and that the devices aren't optimized to help users with privacy concerns, which were the main points I wanted a general audience to understand.
+
 ### Design process
 
-*A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)*
+A lot of my design decisions happened in Part 2, so after that point, I was just refining and figuring out how to work within the constraints of Tableau and Shorthand.
+
+My first step for building the story in Shorthand was to take the final wireframe and build the most important charts that I knew I would want to show during the presentation, as well as insert the most important text blurbs to show the flow that I had set up in the wireframe and create the transitions from one chart to the next.
+
+After that, I iterated on the images and the text as I figured out what did and did not display correctly in Shorthand, and as I realized what did and did not contribute to the overall story once I saw it all together. The overall structure of the story remained roughly the same as in my final wireframe, but here are some important changes that I made:
+* I originally planned to show the growth in smart speaker adoption using a line graph, but this just wasn't compelling once I mocked it up in Tableau since I only had three years of data. I decided a bar chart would be better for drawing attention to the fact that the number had more than doubled from 2017 to 2019, since the bars make it easy to compare those proportions. (I colored the bars green since that seemed representative of growth, and since at that point I didn't want to imply negative valence, since that would come later when I talked more about privacy concerns and switched to more red tones for the charts.)
+* I went back and forth about what date range to include in the line chart about the Google search trends. In the presentation, I used 2017 to 2019, since that matches the adoption trend from the bar graph before that, but the overall trend is clearer if I start at Alexa release in late 2014, so I decided to put that in the full Shorthand.
+* I decided to use a different stat to make the point I was making with the third pie chart in the wireframe. Instead of saying that 26.8% of users don't realize they can delete device history, I decided it was more compelling to include the stat indicating that only 11% of users had actually done so.
+
+A design struggle that I faced at first was figuring out how to ensure that charts would display fully in the wide aspect ratio that Shorthand uses. Shorthand does not necessarily shrink images to fit vertically, so I had to build wide chart images with extra whitespace on the sides to ensure that the whole chart would fit on the screen at once (while also maximizing the chart size to make sure it was legible, especially when projected).
+
+I found it odd that Shorthand uses a sans serif font for headings but a serif font for body text, since I've always been taught that serif fonts are harder to read on screens. (It also just looked weird and distracting to me to have so many different fonts.) I added some custom CSS to force Shorthand to use a sans serif font everywhere (it should be displaying in Helvetica Neue wherever possible). I also found it jarring to have 
 
 ### References
 
@@ -56,7 +81,7 @@ For more information about Part 2, visit [the Part 2 page](https://sarahpearman.
 
 Amazon Alexa iOS app, version 2.2 (February 2020).
 
-T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. [Music, Search, and IoT: How People (Really) Use Voice Assistants](http://web.mit.edu/bentley/www/papers/iot.pdf). ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. Publication date: April 2019. Mozilla's summary blog post also available [here](https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/).
+T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. [Music, Search, and IoT: How People (Really) Use Voice Assistants](http://web.mit.edu/bentley/www/papers/iot.pdf). ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. April 2019. Mozilla's summary blog post also available [here](https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/).
 
 Apple Settings app, Siri & Search, iOS version 13.3.1 (February 2020).
 
@@ -68,6 +93,9 @@ Google Home iOS app, version 2.17 (February 2020).
 
 [Google Trends query for "Alexa Privacy"](https://trends.google.com/trends/explore?date=2014-01-01%202020-02-14&geo=US&q=alexa%20privacy). Downloaded csv [here](https://github.com/sarahpearman/data-stories/tree/master/final-project-files/google-trends-data). Data shown in line graph only includes a subset (2017-2019).
 
+J. Lau, B. Zimmerman, and F. Schaub. [Alexa, Are You Listening? Privacy Perceptions, Concerns and
+Privacy-seeking Behaviors with Smart Speakers](https://www.key4biz.it/wp-content/uploads/2018/11/cscw102-lau-1.pdf). CSCW 2018.
+
 [NPR Smart Audio Report Winter 2019](https://www.nationalpublicmedia.com/insights/reports/smart-audio-report/).
 
 Pew Research Center 2017 [voice assistants report](https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf), based on 2017 American Trends Panel Wave 27 conducted May 1-15, 2017. The  full American Trends Panel dataset can also be downloaded [here](https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-27/) (with free account registration).
@@ -76,7 +104,7 @@ Pew Research Center 2019 [smart speaker report](https://www.pewresearch.org/wp-c
 
 https://www.theverge.com/2019/8/29/20837077/apple-siri-privacy-opt-out-voice-human-grading-review
 
-[WebFX Readability Test Tool](https://www.webfx.com/tools/read-able/) used to calculate readability metrics for app settings.
+[WebFX Readability Test Tool](https://www.webfx.com/tools/read-able/) used to calculate readability metrics for app settings. The readability data can be found [here]().
 
 #### Image sources
 
@@ -84,14 +112,15 @@ Images from Pixabay (user HeikoAL), Wikimedia Commons (users SimonWaldherr, Y2kc
 
 See [full Shorthand story](https://carnegiemellon.shorthandstories.com/smartSpeakerPrivacy/index.html) for more details on individual images and licenses.
 
+#### Tools
+
+Tableau Desktop 2019.4, Excel for Mac 16.33, BBEdit, Preview, Github, Balsamiq Wireframes.
+
 #### Other
+
+Some data collected from direct voice interactions with Amazon Echo Dot
 
 Intentionally did *not* add a reference line for the number of steps/clicks/touches that would be ideal to get to the setting in the final chart based on these references:
 * https://www.nngroup.com/articles/3-click-rule/
 * https://www.nngroup.com/articles/interaction-elasticity/
 * http://web.mit.edu/bentley/www/papers/iot.pdf
-
-
-### Other notes
-
-*Include any other information that helps round out your data story. (Part III)*
