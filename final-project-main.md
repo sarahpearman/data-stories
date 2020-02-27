@@ -156,4 +156,4 @@ Intentionally did *not* add a reference line for the number of steps/clicks/touc
 * https://www.nngroup.com/articles/interaction-elasticity/
 * http://web.mit.edu/bentley/www/papers/iot.pdf
 
-Any data that is not linked above, including the data I collected myself, is included in my GitHub repository. Because of the number of individual data points that went into this project, it would be impractical to link each individual file here, but they are all available in this directory of the repo, hopefully with fairly intuitive organization: [https://github.com/sarahpearman/data-stories/final-project-files](https://github.com/sarahpearman/data-stories/final-project-files)
+Any data that is not linked above, including the data I collected myself, is included in my GitHub repository. Because of the number of individual data points that went into this project, it would be impractical to link each individual file here, but they are all available in this directory of the repo, hopefully with fairly intuitive organization: [https://github.com/sarahpearman/data-stories/final-project-files](https://github.com/sarahpearman/data-stories/tree/master/final-project-files)
