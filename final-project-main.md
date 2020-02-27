@@ -19,7 +19,7 @@ In short: these devices are increasingly popular, but people are also increasing
 [Part 3](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#part-2)
 * [Links to final deliverables](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#final-deliverable)
 * [Intended audience](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#intended-audience)
-* [Design process](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#design-process)
+* [Design process](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#design-process-for-final-story)
 * [Final reference list](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#references)
 * [Other notes](https://github.com/sarahpearman/data-stories/blob/master/final-project-main.md#other-notes)
 
@@ -34,6 +34,8 @@ For more information about Part 1, visit [the Part 1 page](https://sarahpearman.
 ## Part 2
 
 At some point in brainstorming for Part 2, I realized that I could tell a more interesting story if I collected some data on my own. I collected data from asking my own smart speakers privacy-related questions, and I also explored their corresponding apps and gathered metrics on how difficult it was to find privacy settings in the apps as well as how complex the language in the settings was.
+
+For the last chart, I originally envisioned some kind of matrix to show how hard it was to access settings plotted against the readability metrics. (Actually, that matrix popped into my head when I was out on a run one day and was completely stuck on this project—-it's funny how that works.) I quickly realized that the matrix didn't actually make sense, especially given that all of the data points would be in the "performed poorly on both metrics" quadrant anyway, but I liked the idea of finding two metrics to show how easy or hard it was to work with the privacy settings for each voice assistant, so I iterated until finding a way to do that. This chart will hopefully be an interesting proof-of-concept for additional research in this space.
 
 I then built a wireframe of a story with the data from Part 1 plus the data I collected in Part 2. I tested that wireframe with three users--one expert user with a background similar to mine, one user who is not an expert in technology or privacy but who has more visual design background than I do, and one general-audience user. I iterated based on their feedback and arrived at a final wireframe.
 
@@ -52,8 +54,6 @@ I used my final wireframe to build various charts in Tableau, and I presented a 
 
 ### Intended audience
 
-*A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience.*
-
 I wanted this story to be accessible and compelling for multiple audiences. First, since I knew I would be presenting it in this class, I wanted to give enough background that it would make sense to someone without a great deal of technical knowledge or experience with information privacy issues. However, I also wanted it to offer information that would be of interest to someone who was familiar with the research in this area, since I would like to use this as a starting point for pitching more research on this topic (and potentially applying for more funding for such research).
 
 To make it accessible to a more general audience, I included the "brief history of voice assistants" section, which wouldn't really be necessary for an audience in my field, where it's generally accepted that voice assistants and Internet of Things devices are a growing and important space. I also discussed and included photos of some of the most popular smart speakers in case people were not as familiar with this category of products. This is also important since the terms people use for these products are often conflated. For example, the Amazon device is an Echo, and the underlying voice tech is Alexa, but people often use the terms interchangeably. This is fine in most contexts, but here it was necessary to try to disambiguate them to talk about some of the specifics of the applications of these devices on smart speakers.
@@ -68,7 +68,9 @@ While we have data about users' self-reported attitudes toward smart speakers, w
 I knew the latter two would be a little less clear to a non-expert audience without context for standard usability guidelines (although the ideas of steps and grade levels are still pretty accessible), but they are still easier proxies to understand than if I had included more variables or done more complex lab studies. I figured that if nothing else, the chart with 
 red X's would make it clear that there is room for improvement and that the devices aren't optimized to help users with privacy concerns, which were the main points I wanted a general audience to understand.
 
-### Design process
+### Design process for final story
+
+The earlier steps of the design process are described above (and in more detail on the [Part 1](https://sarahpearman.github.io/data-stories/final-project-part1.html) and [Part 2](https://sarahpearman.github.io/data-stories/final-project-part2.html) pages).
 
 A lot of my design decisions happened in Part 2, so after that point, I was just refining and figuring out how to work within the constraints of Tableau and Shorthand.
 
