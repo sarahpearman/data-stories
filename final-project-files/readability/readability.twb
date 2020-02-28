@@ -356,7 +356,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run fontsize='24'>Want to control whether humans can listen to the recordings from your voice assistant? The setting is pretty hard to find and understand</run>
+            <run fontsize='24'>The setting that controls whether humans can listen to the recordings from your voice assistant is pretty hard to find and understand</run>
             <run>Æ&#10;&#10;</run>
             <run fontsize='16'>Apple has the most complicated language, but they are also the only company that doesn&apos;t save recordings by default</run>
           </formatted-text>
