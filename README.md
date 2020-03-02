@@ -8,7 +8,7 @@ URL for GitHub repository: [https://github.com/sarahpearman/data-stories](https:
 
 # About me
 
-Hello! My name is Sarah Pearman (she/her/hers). I'm a PhD student in Societal Computing. I do research on usable privacy and security issues (how to make password authentication easier to use, for example, or how to design services and devices so that normal people can actually make informed decisions about how their data will be used).
+Hello! My name is [Sarah Pearman](https://www.sarahpearman.com). My pronouns are she/her/hers. I'm a PhD student in [Societal Computing](https://sc.cs.cmu.edu/), and I do research on [usable privacy and security](https://cups.cs.cmu.edu/) issues (how to make password authentication easier to use, for example, or how to design services and devices so that normal people can actually make informed decisions about how their data will be used).
 
 # What I hope to learn
 
@@ -32,8 +32,8 @@ I will almost certainly be a researcher of some kind after graduation, and I thi
 
 [Assignment: OECD data visualization](/dataviz2.md)
 
-# Dog!
+# Bonus content
 
-This picture of my dog was here as a placeholder originally, but who's mad about an unsolicited dog photo?
+This picture of my dog was here as a placeholder originally, but who's mad about an unsolicited dog photo? This is my retired racing greyhound Elwood (as in Elwood Blues).
 
 ![Photo of Elwood, a very beautiful and very spoiled greyhound wearing a striped shirt.](https://raw.githubusercontent.com/sarahpearman/data-stories/master/photos/elwood.png)
