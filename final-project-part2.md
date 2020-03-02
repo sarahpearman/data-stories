@@ -143,8 +143,9 @@ My tentative final storyboard shown above is Storyboard 3 without any major chan
 
 # References
 
-## Public data
+## Papers, reports, and public datasets
 
+* [Music, Search, and IoT: How People (Really) Use Voice Assistants.](http://web.mit.edu/bentley/www/papers/iot.pdf) T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. Publication date: April 2019.
 * Pew 2017 voice assistants report based on 2017 American Trends Panel data, https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf
 * Pew 2019 smart speaker report based on 2019 American Trends Panel data, https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.21_SmartSpeaker_methods-topline-final-11.21.pdf
 * NPR Smart Audio Report Winter 2019, https://www.nationalpublicmedia.com/insights/reports/smart-audio-report/
@@ -155,6 +156,7 @@ My tentative final storyboard shown above is Storyboard 3 without any major chan
   * https://www.nngroup.com/articles/3-click-rule/
   * https://www.nngroup.com/articles/interaction-elasticity/
   * http://web.mit.edu/bentley/www/papers/iot.pdf
+ 
 
 ## Self-collected data
 
