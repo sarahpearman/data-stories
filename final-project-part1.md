@@ -55,28 +55,27 @@ Both of these datasets consist of >4000 U.S. adults who are randomly selected fr
 
 I expect to use some data points from the two papers below. The original datasets are not publicly available, but I would just need to cite simple percentages or counts that are available in the papers themselves (both of which are publicly available).
 
-Academic paper on privacy concerns surrounding smart speakers: https://www.key4biz.it/wp-content/uploads/2018/11/cscw102-lau-1.pdf
+J. Lau, B. Zimmerman, and F. Schaub. [Alexa, Are You Listening? Privacy Perceptions, Concerns and
+Privacy-seeking Behaviors with Smart Speakers](https://www.key4biz.it/wp-content/uploads/2018/11/cscw102-lau-1.pdf). CSCW 2018.
 
-Mozilla paper (official publication and blog-style summary):
-* http://www-personal.umich.edu/~tawfiqam/Ammari_TOCHI_2019.pdf
-* https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/
+T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. [Music, Search, and IoT: How People (Really) Use Voice Assistants](http://web.mit.edu/bentley/www/papers/iot.pdf). ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. April 2019. Mozilla's summary blog post also available [here](https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/).
 
 ### Other possible supplementary data sources
 
 I am also exploring other context that may be useful, including statistics cited in academic papers and news publications listed below. As above, I may not be able to get the original dataset for these, but I can cite simple summary statistics from the publications.
 
-https://yixinzou.github.io/publications/popets2020-mhaidli.pdf
+[https://yixinzou.github.io/publications/popets2020-mhaidli.pdf](https://yixinzou.github.io/publications/popets2020-mhaidli.pdf)
 
-https://foundation.mozilla.org/en/privacynotincluded/
+[https://foundation.mozilla.org/en/privacynotincluded/](https://foundation.mozilla.org/en/privacynotincluded/)
 
-https://www.bloomberg.com/news/articles/2019-12-31/you-re-home-alone-with-alexa-are-your-secrets-safe-quicktake
+[https://www.bloomberg.com/news/articles/2019-12-31/you-re-home-alone-with-alexa-are-your-secrets-safe-quicktake](https://www.bloomberg.com/news/articles/2019-12-31/you-re-home-alone-with-alexa-are-your-secrets-safe-quicktake)
 
-https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio
+[https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio)
 
 
 ## Method and medium
 
-I plan to complete the final "story" for my project using Shorthand. Some of the essential visuals will be charts showing the increase in adoption of voice assistants (both on phones and on standalone devices), as well as some charts documenting statistics on users' concern about privacy, some of the known privacy issues (such as the frequency with which these devices start recording by mistake, when a wake word wasn't actually said), and some of the usability concerns (e.g., a stat from [a Mozilla study](https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/) showing that >25% of people they studied did not know that they could delete data from the logs of these devices).
+I plan to complete the final "story" for my project using Shorthand. Some of the essential visuals will be charts showing the increase in adoption of voice assistants (both on phones and on standalone devices), as well as some charts documenting statistics on users' concern about privacy, some of the known privacy issues (such as the frequency with which these devices start recording by mistake, when a wake word wasn't actually said), and some of the usability concerns (e.g., a stat from [this study](https://blog.mozilla.org/ux/2019/12/how-people-really-really-use-smart-speakers/) showing that >25% of people they studied did not know that they could delete data from the logs of these devices).
 
 I also expect to use some visuals that show supplementary information that may not need to be presented as a chart. For example, I'm still trying to determine the best way to present conceptual visuals to emphasize where the data from these devices can flow to and the fact that employees at companies are sometimes listening to recordings from the devices directly.
 
