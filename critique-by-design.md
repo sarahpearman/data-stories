@@ -1,6 +1,6 @@
 # Assignments 3 & 4: Critique by Design
 
-https://sarahpearman.github.io/data-stories/critique-by-design.html
+URL to link back to this page: [https://sarahpearman.github.io/data-stories/critique-by-design.html](https://sarahpearman.github.io/data-stories/critique-by-design.html)
 
 ## The victim of this critique: A chart from a 2012 Pew report
 
