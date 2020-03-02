@@ -1,4 +1,12 @@
-# More and more people are putting smart speakers in their homes, but people still aren't sure whether they can trust these devices.
+# Final Project, Part 1: Smart Speakers & Privacy Choices
+
+[On to Part 2](https://sarahpearman.github.io/data-stories/final-project-part2.html)
+
+[On to Parts 3/4, Final Deliverable](https://sarahpearman.github.io/data-stories/final-project-main.html)
+
+---
+
+## Initial theme: *More and more people are putting smart speakers in their homes, but people still aren't sure whether they can trust these devices.*
 
 ![Outline drawn in class](https://raw.githubusercontent.com/sarahpearman/data-stories/master/sketches/story.jpg)
 
