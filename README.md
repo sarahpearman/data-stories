@@ -1,6 +1,6 @@
 # data-stories
 
-This is my public portfolio for Telling Stories with Data (spring 2020).
+This is my public portfolio for [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870) (spring 2020).
 
 URL to link back to this page: [https://sarahpearman.github.io/data-stories/](https://sarahpearman.github.io/data-stories/)
 
