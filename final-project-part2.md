@@ -6,6 +6,14 @@
 
 ---
 
+# Correction
+
+After this was graded for the course assignment, I realized that one of the figures in the wireframes below was misattributed. The pie chart indicating that 26.8% of users were unaware that they could delete device history is not from a Pew source: it is from the paper cited below.
+
+[Music, Search, and IoT: How People (Really) Use Voice Assistants.](http://web.mit.edu/bentley/www/papers/iot.pdf) T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. Publication date: April 2019.
+
+---
+
 # Table of Contents
 
 [User Research Plan](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#user-research-plan)
@@ -21,12 +29,6 @@
 [References](https://github.com/sarahpearman/data-stories/blob/master/final-project-part2.md#references)
 
 ---
-
-# Note
-
-After this was graded for the course assignment, I realized that one of the figures in the wireframes below was misattributed. The pie chart indicating that 26.8% of users were unaware that they could delete device history is not from a Pew source: it is from the paper cited below.
-
-[Music, Search, and IoT: How People (Really) Use Voice Assistants.](http://web.mit.edu/bentley/www/papers/iot.pdf) T. Ammari, J. Kaye, J.Y. Tsai, and F. Bentley. ACM Transactions on Computer-Human Interaction, Vol. 26, No. 3, Article 17. Publication date: April 2019.
 
 # User Research Plan
 
