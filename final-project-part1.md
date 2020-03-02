@@ -45,7 +45,7 @@ In the meantime, regular users should take note of whether these devices are usi
 
 My main data sources will be two sets of Pew Research survey results.
 
-The first comes from the May 2017 American Trends Panel (Wave 27). That dataset is publicly available in full [from this list](https://www.pewresearch.org/internet/datasets/) with a free Pew Research account, but it can't be directly linked since signin is required to download the raw datasets from their website. The topline report for the relevant data is also available [here]().
+The first comes from the May 2017 American Trends Panel (Wave 27). That dataset is publicly available in full [from this list](https://www.pewresearch.org/internet/datasets/) with a free Pew Research account, but it can't be directly linked since signin is required to download the raw datasets from their website. The topline report for the relevant data is also available [here](https://www.pewresearch.org/wp-content/uploads/2017/12/voice-assistants-TOPLINE-and-METHODOLOGY-FINAL-COPY-EDITED.pdf).
 
 The second source comes from the June 2019 American Trends Panel (Wave 35). The full raw dataset is not yet available (Pew usually has a delay of up to 1-2 years from collection to release of the full dataset), but the topline data contains what I need, and it's available [here](https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.21_SmartSpeaker_methods-topline-final-11.21.pdf). The parts I'm concerned with are also summarized in a report [here](https://www.pewresearch.org/fact-tank/2019/11/21/5-things-to-know-about-americans-and-their-smart-speakers/).
 
